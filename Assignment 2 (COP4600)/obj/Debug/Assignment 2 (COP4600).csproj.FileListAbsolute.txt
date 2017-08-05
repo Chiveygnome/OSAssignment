@@ -1,0 +1,2 @@
+c:\users\ernest\documents\visual studio 2015\Projects\Assignment 2 (COP4600)\Assignment 2 (COP4600)\bin\Debug\Assignment 2 (COP4600).exe.config
+c:\users\ernest\documents\visual studio 2015\Projects\Assignment 2 (COP4600)\Assignment 2 (COP4600)\obj\Debug\Assignment 2 (COP4600).csprojResolveAssemblyReference.cache
